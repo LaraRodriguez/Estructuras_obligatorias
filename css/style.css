@@ -1,3 +1,9 @@
-div{
-    border: solid black;
+@font-face{
+    src: url("../fuentes/ClauslyFont.ttf");
+    font-family: "clauslyfont";
+}
+h1{
+    font-family: "clauslyfont";
+    font-size: 50px;
+    text-align: center;
 }
