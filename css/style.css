@@ -7,3 +7,32 @@ h1{
     font-size: 50px;
     text-align: center;
 }
+#master{
+    border: solid 5px darkslategray;
+    width: 900px;
+    background-color: teal;
+}
+#introduccion{
+    border: solid 5px darkslategray;
+    background-color: teal;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#titulo1{
+    border: solid 5px darkslategray;
+    background-color: teal;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#gatos{
+    border: solid 5px darkslategray;
+    background-color: teal;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#siames{
+    border: solid 5px darkslategray;
+    background-color: teal;
+    margin-left: 10px;
+    margin-right: 10px;
+}
