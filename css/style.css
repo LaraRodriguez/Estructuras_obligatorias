@@ -2,6 +2,9 @@
     src: url("../fuentes/ClauslyFont.ttf");
     font-family: "clauslyfont";
 }
+hr{
+    border-color: transparent;
+}
 h1{
     font-family: "clauslyfont";
     font-size: 50px;
@@ -17,22 +20,53 @@ h1{
     background-color: teal;
     margin-left: 10px;
     margin-right: 10px;
+    padding: 5px 5px 5px 5px;
 }
 #titulo1{
     border: solid 5px darkslategray;
     background-color: teal;
     margin-left: 10px;
     margin-right: 10px;
+    
 }
 #gatos{
     border: solid 5px darkslategray;
     background-color: teal;
     margin-left: 10px;
     margin-right: 10px;
+    
+}
+#razas{
+    border: solid 5px darkslategray;
+    background-color: teal;
 }
 #siames{
     border: solid 5px darkslategray;
     background-color: teal;
     margin-left: 10px;
     margin-right: 10px;
+    
 }
+
+#azul{
+    border: solid 5px darkslategray;
+    background-color: teal;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+#noruega{
+    border: solid 5px darkslategray;
+    background-color: teal;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+div{
+    border: solid 5px darkslategray;
+    background-color: teal;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 5px 5px 5px 5px; 
+}
+
